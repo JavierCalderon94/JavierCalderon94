@@ -67,6 +67,7 @@ I'm currently pursuing an **MBA in Pharmaceutical Industry & Healthcare at CESIF
 | Project | Description | Technologies |
 |---|---|---|
 | 🔍 [**Twitch Top 1000 EDA**](https://github.com/JavierCalderon94/EDA) | Exploratory analysis of the top 1000 Twitch channels. Data extracted via web scraping and analysed to test hypotheses about language and content type. | Python, BeautifulSoup, Selenium, Pandas, Seaborn, Plotly |
+| 🗄️ [**Proyecto Conjunto SQL**](https://github.com/JavierCalderon94/proyecto_conjunto_sql) | Collaborative project with a Full Stack developer to design and populate a relational database hosted in the cloud. | SQL, PostgreSQL, pgAdmin4, Render |
 | ⚙️ [**API Connect**](https://github.com/JavierCalderon94/API_Connect) | REST API for advertising investment analysis and sales prediction. Includes ingest, predict and retrain endpoints. Containerised with Docker. | Python, FastAPI, Scikit-Learn, SQLite, Docker |
 | ✈️ [**vIAjando**](https://github.com/JavierCalderon94/Proyecto_Final_vIAjando) | AI-powered travel assistant chatbot with real-time conversation history stored in the cloud. | Python, FastAPI, OpenAI API, PostgreSQL, Google Cloud |
 | 📊 [**Desafío Tripulaciones**](https://github.com/JavierCalderon94/desafio_tripulaciones_ds) | Admin dashboard for an education company, built as part of a cross-functional team (Data Science + Full Stack). | Python, Streamlit, PostgreSQL, Plotly, Render |
@@ -83,6 +84,14 @@ I'm currently pursuing an **MBA in Pharmaceutical Industry & Healthcare at CESIF
 ### Sales Operations Technician — *Okoru Global SLU* (2020 – 2021)
 - Managed order processing across multiple platforms and ERP system (Microsoft Dynamics NAV).
 - Coordinated client communications and shipment tracking with internal and external teams.
+
+---
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiercalderongarcia)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:javiercalderongarcia@gmail.com)
+
 
 ---
 
