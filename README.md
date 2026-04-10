@@ -91,11 +91,3 @@ I'm currently pursuing an **MBA in Pharmaceutical Industry & Healthcare at CESIF
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiercalderongarcia)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:javiercalderongarcia@gmail.com)
-
-
----
-
-## Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiercalderongarcia)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:javiercalderongarcia@gmail.com)
