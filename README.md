@@ -27,19 +27,25 @@ I'm currently pursuing an **MBA in Pharmaceutical Industry & Healthcare at CESIF
 
 **Frameworks & Apps:**
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 **Libraries:**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-003F5C?logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F8C?logo=plotly&logoColor=white)
+![Folium](https://img.shields.io/badge/-Folium-13C84A?logo=folium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59666C?logo=python&logoColor=white)
 
 **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **Cloud & Deployment:**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
