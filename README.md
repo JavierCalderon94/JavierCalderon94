@@ -77,9 +77,13 @@ I'm currently pursuing an **MBA in Pharmaceutical Industry & Healthcare at CESIF
 ## Professional Experience
 
 ### Customer & Sales Operations Lead — *Okoru Global SLU* (2021 – 2024)
+- Developed and maintained an **order import process**: downloading, transforming, validating and standardising data from multiple platforms and marketplaces into a unified format for daily ERP loading — cutting daily processing time from ~6-7h to ~2h (**−70%**).
+- Managed **master data** in the ERP (Microsoft Dynamics NAV): client onboarding, tariff and price setup and updates, ensuring the integrity of commercial information.
+- Prepared **periodic reporting** for the Commercial, Finance and Accounting areas: order and sales status and forecasts, invoicing and client risk.
+- Implemented a **ticketing tool** to unify contact channels across business lines, documenting the new process and supporting the team through the transition.
+- Coordinated the full order cycle with Logistics and large retailers, handling incidents and updating tracking data.
 - Led a multilingual customer service and sales operations team, reporting performance to senior management.
-- Built and maintained structured Excel reports and datasets to support operational decision-making.
-- Key liaison between Sales, Accounting and Logistics, improving process efficiency across departments.
+
 
 ### Sales Operations Technician — *Okoru Global SLU* (2020 – 2021)
 - Managed order processing across multiple platforms and ERP system (Microsoft Dynamics NAV).
